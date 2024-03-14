@@ -3,7 +3,7 @@
 
 # Description 
 
-This python project utilizes functions, conditional statements, a list, and a while loop to make a fully functional tic tac toe game. The program can determine when there is a winner and when there is a draw. 
+The ensuing application is a rendition of the globally acclaimed game, Tic Tac Toe. This Python project is architected using a suite of programming constructs including functions, conditional logic, data structures (specifically, a list), and a loop mechanism (while loop) to ensure a robust and fully operational game experience. The algorithm is designed to accurately identify the occurrence of a victory or a stalemate within the game’s context.
 
 
 # Language and Utilities Used
@@ -15,11 +15,6 @@ This python project utilizes functions, conditional statements, a list, and a wh
 # Environments Used 
 
 - Windows 11
-
-
-# Notes
-
-The program does not validate user input. When time permits, this program will be updated to fix that issue with the help of a dedicated validation function.  
 
 
 # Project Walk-Through:
