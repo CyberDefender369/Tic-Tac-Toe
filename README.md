@@ -22,20 +22,20 @@ The ensuing application is a rendition of the globally acclaimed game, Tic Tac T
 <p align="left">
 
 Tic tac toe board without any player moves yet.
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130022&authkey=%21AJ_2AlziKrA7E0I&width=660&height=832" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130062&authkey=%21AJ14TRNdV3DXz8Q&width=657&height=850" width="80%" height="80%" />
 
 Player 1 makes their first move.
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130024&authkey=%21ALmqiJsMHtk1f98&width=634&height=932" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130064&authkey=%21ACpetE384n93oYs&width=735&height=942" width="80%" height="80%" />
 
 Player 2 makes their first move.
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130026&authkey=%21AOXUEsGdoIfGLfM&width=646&height=942" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130066&authkey=%21AE0tgH4veM39Erc&width=686&height=943" width="80%" height="80%" />
 
 Scenario where player 1 wins.
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130028&authkey=%21AO0rOhlr_ekfmyU&width=636&height=911" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130068&authkey=%21AMMBnJITvG8RFR4&width=685&height=911" width="80%" height="80%" />
 
 Scenario where player 2 wins.
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130030&authkey=%21ACUNISmmt7jHvJM&width=639&height=913" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130070&authkey=%21AFOHQwK3MjF9Nbw&width=669&height=909" width="80%" height="80%" />
 
 Scenario where nobody wins. 
-<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130032&authkey=%21AH4KOUSc1-kCSG4&width=633&height=917" width="80%" height="80%" />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2130072&authkey=%21ADTg8LF_e-5C9Po&width=687&height=905" width="80%" height="80%" />
 
