@@ -3,8 +3,7 @@
 
 # Description 
 
-The ensuing application is a rendition of the globally acclaimed game, Tic Tac Toe. This Python project is architected using a suite of programming constructs including functions, conditional logic, data structures (specifically, a list), and a loop mechanism (while loop) to ensure a robust and fully operational game experience. The algorithm is designed to accurately identify the occurrence of a victory or a stalemate within the game’s context.
-
+This Python project recreates the classic game of Tic Tac Toe. It utilizes programming constructs including functions, conditional logic, data structures, and loops to provide a fully functional gaming experience. The program can detect when there is a winner or a draw.
 
 # Language and Utilities Used
 
