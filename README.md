@@ -1,19 +1,19 @@
 # Tic Tac Toe
 
-# Description 
+## Description 
 
 This Python project recreates the classic game of Tic Tac Toe. It utilizes programming constructs including functions, control flow, user input, and basic data structures to provide a fully functional gaming experience.
 
-# Language and Utilities Used
+## Language and Utilities Used
 
 - Python 3.13.2
 - Thonny 4.1.7
 
-# Environments Used 
+## Environments Used 
 
 - Windows 11
 
-# Project Walk-Through
+## Project Walk-Through
 
 ### Scenario 1
 - Player 2 wins.
